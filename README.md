@@ -1,4 +1,4 @@
-# Go Concurrency
+# Concurrency with Go
 Here you can find Go mini projects - everyday problems that can be solved better with concurrency.
 
 ## Content
