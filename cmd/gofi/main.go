@@ -16,5 +16,5 @@ func main() {
 	file := fileReader.ReadCSV(filePath)
 	fmt.Println("File rows: ", len(file.Rows))
 
-	fileReader.ReadContent(file.Rows)
+	fileReader.InsertIntoDB(file.Rows)
 }
